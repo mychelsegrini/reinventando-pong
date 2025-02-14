@@ -37,6 +37,8 @@ Acima está a nossa tela finalizada. No processo de desenvolvimento, usamos o Fi
     2. O processo foi curto, então não foram muitas habilidades desenvolvidas. Ainda assim, certamente, a minha habilidade com o Figma foi aprimorada severamente. Além disso, eu nunca havia mexido a fundo com arquivos no formato MARKDOWN. Agora com certeza posso dizer que tenho experiência.
 
 - **Cauã**
+  1. O maior desafio durante o projeto foi a parte do desenho em si. Eu não tenho experiência nem habilidade nessa área, e é uma das partes do design de que menos gosto.
+  2. Eu já tenho alguma experiência com o Figma, mas foi ótimo revisitar a ferramenta, pois fazia alguns meses que eu não a usava.
 
 ---
 
