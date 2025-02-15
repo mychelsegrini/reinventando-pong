@@ -23,6 +23,8 @@ Abaixo está a **Folha de Concept Art** desenvolvida com uma caneta marrom em um
 
 ## 4. Tela Digital do Jogo  
 
+<img src="pongDeQueijoFinalizado.png">
+
 Acima está a nossa tela finalizada. No processo de desenvolvimento, usamos o Figma e assets de livre acesso na internet. A escolha dos assets, cores e estilo de desenho foi pensada para atingirmos o escopo da cozinha e, ao mesmo tempo, passar uma ideia mais original de uma mescla dicotômica, mais especificamente, entre o que é real e o que é cartunesco. Tivemos inspiração na filosofia do Art Nouveau, que misturava formas naturais com materiais inorgânicos, além de obras como O Incrível Mundo de Gumball, que também mistura o real ao cartunesco. A idealização desse design significa, para nós, um avanço extremamente válido na identidade visual do Pong, o que certamente auxiliará em como ele será lembrado por seus jogadores.
 
 ## 5. Reflexão e Aprendizados  
